@@ -2,7 +2,7 @@
 <hr>
 <div class="container pb-5">
     <div class="float-left">
-        Copyright © <?php echo date("Y"); ?> - Madani Studio
+        Copyright © <?php echo date("Y").' - '.get_bloginfo('name','raw'); ?> 
     </div>
     <div class="float-right">
         <?php $footer_menus = basictheme_get_menu_items('footer-menu'); ?>
