@@ -1,0 +1,19 @@
+/*
+Theme Name: AppStudio
+Author: Alfan Nasrulloh
+Author URI: https://alfannas.com
+Version: 1.1
+*/
+
+.nav-footer{
+
+}
+
+.nav-footer > li{
+    display: inline-block;
+    margin-left: 2rem;
+}
+
+.nav-footer > li > a{
+    text-decoration: none;
+}
